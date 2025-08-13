@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://328loft.github.io",
+  "homepage": "https://ericliudx.github.io/328loft-website",
   "dependencies": {
     "@fontsource/abel": "^5.0.13",
     "@fontsource/poppins": "^5.0.15",
