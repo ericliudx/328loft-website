@@ -29,7 +29,6 @@ function App() {
     //   </BrowserRouter>
 
     <div className="App">
-      <h1>App is loading...</h1>
       <Routes>
         <Route path="/" element={<div>Hello from HomePage!</div>} />
         <Route path="/food-page" element={<FoodPage />} />
