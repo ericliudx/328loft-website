@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9346596b.css",
+    "main.js": "/static/js/main.f97370cd.js",
+    "static/js/453.a6a97343.chunk.js": "/static/js/453.a6a97343.chunk.js",
+    "static/media/img1.png": "/static/media/img1.82f5f80c571d6e311dbd.png",
+    "static/media/tastetestpeople.jpg": "/static/media/tastetestpeople.fcf3c734c8f27be5dbbe.jpg",
+    "static/media/spicyboiledfishrice.jpg": "/static/media/spicyboiledfishrice.eca4704dab5798d05a86.jpg",
+    "static/media/bulgogifinal.jpg": "/static/media/bulgogifinal.ffced1a48239dc25d7ff.jpg",
+    "static/media/chefhorizontal.jpg": "/static/media/chefhorizontal.2d75b44eed26b0e34093.jpg",
+    "static/media/bromance.jpg": "/static/media/bromance.5d0873468871f4cbff7f.jpg",
+    "static/media/spicy boiled fish.jpg": "/static/media/spicy boiled fish.8f071f38a3314bca539f.jpg",
+    "static/media/spicycucumbersalad.jpg": "/static/media/spicycucumbersalad.9ad954abbe259fac333a.jpg",
+    "static/media/spice prep.jpg": "/static/media/spice prep.03ad95a3cd9e77ca4014.jpg",
+    "static/media/VULTURES.webp": "/static/media/VULTURES.ad9c4e90bc6c7b62dace.webp",
+    "static/media/logo2.jpg": "/static/media/logo2.76f6c785227489545eba.jpg",
+    "static/media/abel-latin-400-normal.woff": "/static/media/abel-latin-400-normal.99ff440a293ba9b5f356.woff",
+    "static/media/poppins-latin-400-normal.woff": "/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/abel-latin-400-normal.woff2": "/static/media/abel-latin-400-normal.7f8f01ec368fe27136dc.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
+    "index.html": "/index.html",
+    "main.9346596b.css.map": "/static/css/main.9346596b.css.map",
+    "main.f97370cd.js.map": "/static/js/main.f97370cd.js.map",
+    "453.a6a97343.chunk.js.map": "/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9346596b.css",
+    "static/js/main.f97370cd.js"
+  ]
+}
