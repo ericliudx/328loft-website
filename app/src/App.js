@@ -8,13 +8,15 @@ import Footer from "./navigation/footer/footer.js";
 // import foodPic from "./images/img7.png";
 import SelectMenu from "./select_menu_page/select_menu.js";
 import MenuOfTheDay from "./menu_of_the_day/menu_of_the_day.js";
-import FoodPage from "./food_page/food_page"
+import FoodPage from "./food_page/food_page";
 import HomePage from "./home_page/home_page";
 
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route } from "react-router-dom";
 
 function App() {
-    return (
+  console.log("App component is rendering");
+
+  return (
     // <BrowserRouter>
     //     <Routes>
     //         <Route path="/" element={<Layout />}>
@@ -25,14 +27,15 @@ function App() {
     //         </Route>
     //     </Routes>
     //   </BrowserRouter>
-        
-        <div className="App">
-            <Routes>
-                <Route path = "/" element={<HomePage/>} />
-                <Route path = "/food-page" element={<FoodPage/>} />
-            </Routes>
-        </div>
-    );
+
+    <div className="App">
+      <h1>App is loading...</h1>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/food-page" element={<FoodPage />} />
+      </Routes>
+    </div>
+  );
 }
 
 export default App;
