@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/328loft-website/static/css/main.8cfcea43.css",
-    "main.js": "/328loft-website/static/js/main.7b7de8e4.js",
+    "main.js": "/328loft-website/static/js/main.bbe663e3.js",
     "static/js/453.a6a97343.chunk.js": "/328loft-website/static/js/453.a6a97343.chunk.js",
     "static/media/img1.png": "/328loft-website/static/media/img1.82f5f80c571d6e311dbd.png",
     "static/media/tastetestpeople.jpg": "/328loft-website/static/media/tastetestpeople.fcf3c734c8f27be5dbbe.jpg",
@@ -22,11 +22,11 @@
     "static/media/poppins-latin-ext-400-normal.woff2": "/328loft-website/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
     "index.html": "/328loft-website/index.html",
     "main.8cfcea43.css.map": "/328loft-website/static/css/main.8cfcea43.css.map",
-    "main.7b7de8e4.js.map": "/328loft-website/static/js/main.7b7de8e4.js.map",
+    "main.bbe663e3.js.map": "/328loft-website/static/js/main.bbe663e3.js.map",
     "453.a6a97343.chunk.js.map": "/328loft-website/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8cfcea43.css",
-    "static/js/main.7b7de8e4.js"
+    "static/js/main.bbe663e3.js"
   ]
 }
