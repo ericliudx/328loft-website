@@ -24,7 +24,7 @@ function Header({ title, text, picture }) {
   return (
     <header>
       <div className="header">
-        <div className="logo">
+        <div className="logo-header">
           <img src={logo1} alt="" />
         </div>
 
